@@ -13,8 +13,10 @@
   <img align="center" alt="Rick-PYTHON" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <div>
 
+##
   
-/master/icons/react/react-original.svg">
+<div>
+  <a href = "ricardo.martinodev@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 
 /icons/html5/html5-original.svg
 
